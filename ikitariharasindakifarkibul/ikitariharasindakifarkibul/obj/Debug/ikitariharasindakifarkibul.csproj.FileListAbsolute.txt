@@ -1,0 +1,11 @@
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\bin\Debug\ikitariharasindakifarkibul.exe.config
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\bin\Debug\ikitariharasindakifarkibul.exe
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\bin\Debug\ikitariharasindakifarkibul.pdb
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.csproj.AssemblyReference.cache
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.Form1.resources
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.Properties.Resources.resources
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.csproj.GenerateResource.cache
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.csproj.CoreCompileInputs.cache
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.exe
+C:\Users\bakka\source\repos\ikitariharasindakifarkibul\ikitariharasindakifarkibul\obj\Debug\ikitariharasindakifarkibul.pdb
